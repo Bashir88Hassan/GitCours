@@ -1,0 +1,26 @@
+bodY{
+    background: #efefef ;font-family: Arial,Tahoma;
+    
+}
+fieldset{ 
+/*    text-align: right;*/
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #ccc ;
+    width: 490px;
+    margin: 20px auto;
+    direction: rtl;
+}
+legend{
+    background: #FFF;
+    border: 1px solid #CCC;
+    padding: 10px;
+}
+label{display: block;}
+label,input{margin-bottom: 5px;}
+input[type="text"]
+{
+    margin-bottom: 5px;
+    padding: 2px;
+    display: block;
+}
